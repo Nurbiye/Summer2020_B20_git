@@ -7,8 +7,8 @@ public class GitFun {
 
          //Today we did review
         
-        // I am writing this code from gidhub--git pull
+        // I am writing this code from gidHub--git pull (command + T)
         
-        
+        // I am writing this from Intelij--git push (command + K)
     }
 }
